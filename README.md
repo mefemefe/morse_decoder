@@ -2,4 +2,4 @@
 
 encode( 'your text here' )
 
-decode( morse code with one space between letter and 3 spaces between words )
+decode( morse code with one space between letters and three spaces between words )
